@@ -11,7 +11,7 @@ load'https://github.com/kizzylmfao/DH-Games/raw/refs/heads/main/HK'
 elseif game.PlaceId == 130633083847 then
 load'https://github.com/kizzylmfao/DH-Games/raw/refs/heads/main/HIC'
 elseif game.PlaceId == 11653088948 then
-load'https://github.com/kizzylmfao/DH-Games/raw/refs/heads/main/JB')
+load'https://github.com/kizzylmfao/DH-Games/raw/refs/heads/main/JB'
 elseif game.PlaceId == 109983668079237 then
 load'https://github.com/kizzylmfao/DH-Games/raw/refs/heads/main/SAB'
 end
