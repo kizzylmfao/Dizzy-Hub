@@ -2,14 +2,16 @@ function load(url)
 loadstring(game:HttpGet(url))()
 end
 
-load('https://github.com/kizzylmfao/DH-Games/raw/refs/heads/main/7DTL')
+load'https://github.com/kizzylmfao/DH-Games/raw/refs/heads/main/7DTL'
 
 if game.PlaceId == 124428765053468 then
-load('https://github.com/kizzylmfao/DH-Games/raw/refs/heads/main/SLJ')
+load'https://github.com/kizzylmfao/DH-Games/raw/refs/heads/main/SLJ'
 elseif game.PlaceId == 88339269113204 then
-load('https://github.com/kizzylmfao/DH-Games/raw/refs/heads/main/HK')
+load'https://github.com/kizzylmfao/DH-Games/raw/refs/heads/main/HK'
 elseif game.PlaceId == 130633083847 then
-load('https://github.com/kizzylmfao/DH-Games/raw/refs/heads/main/HIC')
+load'https://github.com/kizzylmfao/DH-Games/raw/refs/heads/main/HIC'
 elseif game.PlaceId == 11653088948 then
-load('https://github.com/kizzylmfao/DH-Games/raw/refs/heads/main/JB')
+load'https://github.com/kizzylmfao/DH-Games/raw/refs/heads/main/JB')
+elseif game.PlaceId == 109983668079237 then
+load'https://github.com/kizzylmfao/DH-Games/raw/refs/heads/main/SAB'
 end
